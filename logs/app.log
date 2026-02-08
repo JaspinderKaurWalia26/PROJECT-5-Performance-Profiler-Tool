@@ -1,0 +1,6 @@
+2026-02-08 22:04:20,448 - INFO - Starting timeit
+2026-02-08 22:04:20,700 - INFO - sum_large_numbers took 0.26077 seconds for 10 runs
+2026-02-08 22:04:20,700 - INFO - add took 0.00000 seconds for 10 runs
+2026-02-08 22:04:20,700 - INFO - star_triangle took 0.00281 seconds for 10 runs
+2026-02-08 22:04:20,700 - INFO - Starting cProfile performance profiling
+2026-02-08 22:04:20,736 - INFO - Performance profiling completed. Check performance_report.txt for details.
