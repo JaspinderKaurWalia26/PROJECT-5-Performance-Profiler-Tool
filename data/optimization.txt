@@ -1,0 +1,21 @@
+Function-wise Optimization Suggestions
+
+1. sum_large_numbers
+
+- Using Python's built-in sum() instead of manual loops for faster execution.
+
+- Reducing nested or repeated loops wherever possible.
+
+-Using NumPy arrays for handling very large datasets efficiently.
+
+2. add
+
+- Minimize repeated calculations inside the function.
+
+- Optimize memory usage by avoiding unnecessary variable assignments.
+
+3. star_triangle
+
+- Reduce the number of print statements during computation (printing inside loops is slow).
+
+- Using list comprehension instead of nested loops
